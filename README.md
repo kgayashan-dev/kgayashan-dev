@@ -12,10 +12,23 @@ I'm a passionate programmer and web developer. Here's a little about me:
 
 ## 🔧 Technologies & Tools
 
-- **Languages:** JavaScript, Python, HTML, CSS
-- **Frameworks:** React, NextJS Node.js
-- **Database:** MongoDB, Firebase, MySQL
-- **Other Skills:** GitHub
+- **Languages:**
+![JavaScript](https://img.shields.io/badge/-JavaScript-yellow)
+![Java](https://img.shields.io/badge/-Java-orange)
+![Python](https://img.shields.io/badge/-Python-yellow)
+
+- **Frameworks:**
+![React](https://img.shields.io/badge/-React-blue)
+![Node.js](https://img.shields.io/badge/-Node.js-green)
+![Next.js](https://img.shields.io/badge/-Next.js-black)
+![Tailwind CSS](https://img.shields.io/badge/-Tailwind_CSS-blueviolet)
+- **Database:**
+![MongoDB](https://img.shields.io/badge/MongoDB-green?style=flat-square&logo=mongodb&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-yellow?style=flat-square&logo=firebase&logoColor=black)
+![MySQL](https://img.shields.io/badge/MySQL-blue?style=flat-square&logo=mysql&logoColor=white)
+- **Other Skills:**
+![GitHub](https://img.shields.io/badge/GitHub-black?style=flat-square&logo=github&logoColor=white)
+
 
 ## 🖥️ Workspace Setup
 ![MacBook Pro M1](https://img.shields.io/badge/MacBook_Pro_M1-gray?style=flat-square&logo=apple&logoColor=white)
@@ -33,11 +46,8 @@ Feel free to explore my repositories to see more of my work!
 kgayashan-dev/kgayashan-dev is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
-![JavaScript](https://img.shields.io/badge/-JavaScript-yellow)
-![React](https://img.shields.io/badge/-React-blue)
-![Node.js](https://img.shields.io/badge/-Node.js-green)
-![Next.js](https://img.shields.io/badge/-Next.js-black)
-![Tailwind CSS](https://img.shields.io/badge/-Tailwind_CSS-blueviolet)
-![Java](https://img.shields.io/badge/-Java-orange)
-![Python](https://img.shields.io/badge/-Python-yellow)
+
+
+
+
 
