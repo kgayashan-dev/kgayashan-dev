@@ -12,9 +12,16 @@ I'm a passionate programmer and web developer. Here's a little about me:
 ## 🔧 Technologies & Tools
 
 - **Languages:** JavaScript, Python, HTML, CSS
-- **Frameworks:** React, Node.js
-- **Database:** MongoDB
-- **Other Skills:** Git, GitHub, VS Code
+- **Frameworks:** React, NextJS Node.js
+- **Database:** MongoDB, Firebase, MySQL
+- **Other Skills:** GitHub
+
+## 🖥️ Workspace Setup
+![MacBook Pro M1](https://img.shields.io/badge/MacBook_Pro_M1-gray?style=flat-square&logo=apple&logoColor=white)
+![Intel i3](https://img.shields.io/badge/Intel_i3_-blue?style=flat-square&logo=intel&logoColor=white)
+![Windows](https://img.shields.io/badge/Windows-10-blue?style=flat-square&logo=windows&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-blue?style=flat-square&logo=visual-studio-code&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-gray?style=flat-square&logo=postman&logoColor=orange)
 
 
 Feel free to explore my repositories to see more of my work!
