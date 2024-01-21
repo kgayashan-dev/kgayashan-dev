@@ -30,4 +30,5 @@ You can click the Preview link to take a look at your changes.
 ![Next.js](https://img.shields.io/badge/-Next.js-black)
 ![Tailwind CSS](https://img.shields.io/badge/-Tailwind_CSS-blueviolet)
 ![Java](https://img.shields.io/badge/-Java-orange)
+![Python](https://img.shields.io/badge/-Python-yellow)
 
