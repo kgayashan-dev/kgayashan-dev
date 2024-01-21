@@ -1,8 +1,22 @@
-👋 Hi, I’m @kgayashan-dev
-👀 I’m interested in programming and web development
-🌱 I’m currently learning various programming languages and frameworks
-💞️ I’m looking to collaborate on open source projects and coding challenges
-📫 How to reach me: You can reach me via email @ mgayashan@gmail.com or connect with me on LinkedIn: [linkedin.com/in/kgayashan][![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gayashanm/)
+
+# Hi there, I'm Gayashan! 👋
+
+I'm a passionate programmer and web developer. Here's a little about me:
+
+- 👀 I’m interested in programming and web development.
+- 🌱 I’m currently learning various programming languages and frameworks.
+- 💞️ I’m looking to collaborate on open source projects and coding challenges.
+- 📫 How to reach me: You can email me at mgayashan@gmail.com or connect with me on [LinkedIn](https://www.linkedin.com/in/gayashanm/).
+
+## 🔧 Technologies & Tools
+
+- **Languages:** JavaScript, Python, HTML, CSS
+- **Frameworks:** React, Node.js
+- **Database:** MongoDB
+- **Other Skills:** Git, GitHub, VS Code
+
+
+Feel free to explore my repositories to see more of my work!
 
 
 <!---
