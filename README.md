@@ -12,3 +12,7 @@ You can click the Preview link to take a look at your changes.
 ![JavaScript](https://img.shields.io/badge/-JavaScript-yellow)
 ![React](https://img.shields.io/badge/-React-blue)
 ![Node.js](https://img.shields.io/badge/-Node.js-green)
+![Next.js](https://img.shields.io/badge/-Next.js-black)
+![Tailwind CSS](https://img.shields.io/badge/-Tailwind_CSS-blueviolet)
+![Java](https://img.shields.io/badge/-Java-orange)
+
