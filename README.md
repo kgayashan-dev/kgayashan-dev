@@ -44,6 +44,12 @@ I'm a passionate programmer and web developer. Here's a little about me:
 ![Postman](https://img.shields.io/badge/Postman-gray?style=flat-square&logo=postman&logoColor=orange)
 ![MongoDB Compass](https://img.shields.io/badge/MongoDB_Compass-green?style=flat-square&logo=mongodb&logoColor=white)
 
+## 🔗 Links
+[![Portfolio](https://img.shields.io/badge/Portfolio-gray?style=flat-square&logo=website&logoColor=white)]([https://your-portfolio-link.com](https://kgayashan-dev.github.io/gayashan-dev/))
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat-square&logo=linkedin&logoColor=white)]([https://www.linkedin.com/in/your-linkedin-profile](https://www.linkedin.com/in/gayashanm/))
+[![GitHub](https://img.shields.io/badge/GitHub-black?style=flat-square&logo=github&logoColor=white)]([https://github.com/your-username](https://github.com/kgayashan-dev))
+[![Email](https://img.shields.io/badge/Email-red?style=flat-square&logo=gmail&logoColor=white)](mailto:your-mgayashan83@gmail.com)
+[![Facebook](https://img.shields.io/badge/Facebook-blue?style=flat-square&logo=facebook&logoColor=white)]()
 
 Feel free to explore my repositories to see more of my work!
 
