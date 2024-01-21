@@ -22,6 +22,7 @@ I'm a passionate programmer and web developer. Here's a little about me:
 ![Windows](https://img.shields.io/badge/Windows-10-blue?style=flat-square&logo=windows&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS_Code-blue?style=flat-square&logo=visual-studio-code&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-gray?style=flat-square&logo=postman&logoColor=orange)
+![MongoDB Compass](https://img.shields.io/badge/MongoDB_Compass-green?style=flat-square&logo=mongodb&logoColor=white)
 
 
 Feel free to explore my repositories to see more of my work!
