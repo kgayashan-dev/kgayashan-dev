@@ -36,11 +36,11 @@ I'm a passionate programmer and web developer. Here's a little about me:
 ![Intel i3](https://img.shields.io/badge/Intel_i3_-blue?style=flat-square&logo=intel&logoColor=white)
 ![Windows](https://img.shields.io/badge/Windows-10-blue?style=flat-square&logo=windows&logoColor=white)
 
--**IDE/Text Editors:**
+- **IDE/Text Editors:**
 ![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ_IDEA-red?style=flat-square&logo=intellij-idea&logoColor=white)
 ![Eclipse](https://img.shields.io/badge/Eclipse-purple?style=flat-square&logo=eclipse&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS_Code-blue?style=flat-square&logo=visual-studio-code&logoColor=white)
--**DB**
+- **DB**
 ![Postman](https://img.shields.io/badge/Postman-gray?style=flat-square&logo=postman&logoColor=orange)
 ![MongoDB Compass](https://img.shields.io/badge/MongoDB_Compass-green?style=flat-square&logo=mongodb&logoColor=white)
 
