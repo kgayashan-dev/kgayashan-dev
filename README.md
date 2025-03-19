@@ -19,6 +19,7 @@ I'm a passionate programmer and web developer. Here's a little about me:
 
 - **Frameworks:**
 ![React](https://img.shields.io/badge/-React-blue)
+![ReactNative](https://img.shields.io/badge/-ReactNative-blue)
 ![Node.js](https://img.shields.io/badge/-Node.js-green)
 ![Next.js](https://img.shields.io/badge/-Next.js-black)
 ![Tailwind CSS](https://img.shields.io/badge/-Tailwind_CSS-blueviolet)
