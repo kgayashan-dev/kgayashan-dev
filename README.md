@@ -29,7 +29,7 @@ I'm a passionate programmer and web developer. Here's a little about me:
 ![MySQL](https://img.shields.io/badge/MySQL-blue?style=flat-square&logo=mysql&logoColor=white)
 - **Other Skills:**
 ![GitHub](https://img.shields.io/badge/GitHub-black?style=flat-square&logo=github&logoColor=white)
-
+![Postman](https://img.shields.io/badge/Postman-gray?style=flat-square&logo=postman&logoColor=orange)
 
 ## 🖥️ Workspace Setup
 - **OS:**
@@ -42,7 +42,7 @@ I'm a passionate programmer and web developer. Here's a little about me:
 ![Eclipse](https://img.shields.io/badge/Eclipse-purple?style=flat-square&logo=eclipse&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS_Code-blue?style=flat-square&logo=visual-studio-code&logoColor=white)
 - **DB**
-![Postman](https://img.shields.io/badge/Postman-gray?style=flat-square&logo=postman&logoColor=orange)
+![MSSQL](https://img.shields.io/badge/MSSQL-blue?style=flat-square&logo=mssql&logoColor=blue)
 ![MongoDB Compass](https://img.shields.io/badge/MongoDB_Compass-green?style=flat-square&logo=mongodb&logoColor=white)
 
 ## 🔗 Links
